@@ -189,7 +189,7 @@ export default function GetProduct() {
 
             {tableData.length > 0 && (
                 <div className="bg-black p-6 rounded-lg h-auto my-10 w-[700px]">
-                    <div className="px-2">
+                    {/* <div className="px-2">
                         <div className="flex p-1">
                             <div className="bg-slate-800/50 p-3 rounded-lg pr-8">
                                 Product Name :
@@ -224,7 +224,7 @@ export default function GetProduct() {
                                 {productCategory}
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     <div className="mt-6 py-6 rounded-md w-full px-2">
 
                         <div className="mt-2 w-full rounded-sm ">
