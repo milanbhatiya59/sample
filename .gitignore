@@ -1,0 +1,3 @@
+backend/venv/
+*.so
+frontend/node_modules
